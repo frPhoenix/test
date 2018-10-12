@@ -24,3 +24,5 @@
 
 test 添加内容测试 rebase continue 1
 test 添加内容测试 rebase continue 2
+
+添加完master分支上的一条内容后又来添加一条，test 添加内容测试 rebase continue 3
