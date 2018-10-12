@@ -18,3 +18,5 @@
 
 用来测试rebase continue 内容一
 用来测试rebase continue 内容二
+
+添加完test1分支上的两个内容后又来添加一条，用来测试rebase continue 内容3
