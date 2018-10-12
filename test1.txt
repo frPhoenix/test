@@ -12,3 +12,6 @@
 添加一点内容后test1分支是不是就可以来合并了
 
 添加一点内容，现在要pull master分支的内容了
+
+
+test 添加内容测试 rebase continue 1
