@@ -2,4 +2,4 @@
 
 这是添加到test1分支的内容
 
-`推送到master、test1分支的内容`
+使用push，test1分支的内容
